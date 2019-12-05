@@ -13,3 +13,9 @@ h3{
     font-size: 28px;
     text-align: center;
 }
+li:first-child{
+    background-color: red;
+    font-size: 50px;
+    text-align: center;
+    color: white;
+}
